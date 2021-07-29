@@ -1,8 +1,13 @@
 
 
-
+<h2>Hello World, I'm Mohammed 👋</h2>
+<img align="right" src="image/giphy.webp">
+<h2>I am a student, web front end developer, and very passionate about education and self development</h2>
 
 Languages and Tools:
-![css](https://user-images.githubusercontent.com/87203396/127566578-7e146d86-9f93-475d-95c9-d8d910b0d0f9.png)
-<img src="" >
-
+<div>
+<img src="image/visual-studio-code.png" width="37px">
+<img src="image/logo.png" width="84px" margin-bottom = "20px"> 
+<img src="image/Octocat.png" width="50px">
+</div>  
+  
