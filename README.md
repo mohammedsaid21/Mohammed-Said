@@ -30,3 +30,16 @@ Languages and Tools:
   <img href="https://status.nmoo.dev/now-playing">
 </a>
   
+  <h2>
+  <button id="genNew">Generate New Random Color</button>
+    <span id="color0"> </span>
+    <span id="color1"> </span>
+    <span id="color"> </span>
+    <span id="color"> </span>
+    <span id="color4"> </span>
+    <span id="color5"> </span>
+</h2>
+
+<link rel="stylesheet" href="style.css">
+
+
